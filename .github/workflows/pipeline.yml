@@ -16,5 +16,5 @@ jobs:
         with:
           branch: "main"
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
-          heroku_app_name: "grafql1"
+          heroku_app_name: "tallersoap12"
           heroku_email: "gonzaloguachamin2330@gmail.com"
